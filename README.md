@@ -1,4 +1,8 @@
-### Hi there 👋
+<p><pre align="center">
+<strong>Rudolf Whicker</strong>
+</pre></p>
+
+I just like hanging around here and don't really know much.
 
 <!--
 **RudolfWhicker/RudolfWhicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
